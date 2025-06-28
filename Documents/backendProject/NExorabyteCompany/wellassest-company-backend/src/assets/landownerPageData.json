@@ -1,0 +1,46 @@
+{
+  "landownerPage": {
+    "landownerHeader": {
+      "title": "Landowner",
+      "subtitle": "Unite with us in pursuit of Excellence",
+      "backgroundImage": "https://sheltech-bd.com/cms/admin/uploads/page/landowner/1707388324d2MjS.jpg"
+    },
+    "essenceItems": [
+      {
+        "id": 1,
+        "icon": "FaClock",
+        "title": "On-Time Handover",
+        "description": "We guarantee the timely completion and handover of all our projects.",
+        "src": "https://via.placeholder.com/500"
+      },
+      {
+        "id": 2,
+        "icon": "FaSmile",
+        "title": "ROI Optimized",
+        "description": "Our main goal is client satisfaction, ensuring we meet their expectations at every stage.",
+        "src": "https://via.placeholder.com/500"
+      },
+      {
+        "id": 3,
+        "icon": "FaHardHat",
+        "title": "Safe & Quality Construction",
+        "description": "We follow ethical practices and values in all our engineering projects.",
+        "src": "https://via.placeholder.com/500"
+      },
+      {
+        "id": 4,
+        "icon": "FaBuilding",
+        "title": "In-House Legal & Design Team",
+        "description": "Our focus is on delivering top-notch quality in every construction project.",
+        "src": "https://via.placeholder.com/500"
+      },
+      {
+        "id": 5,
+        "icon": "FaCogs",
+        "title": "After Handover Service",
+        "description": "We strive for excellence in everything we do, setting industry standards.",
+        "src": "https://via.placeholder.com/500"
+      }
+    ]
+  }
+}

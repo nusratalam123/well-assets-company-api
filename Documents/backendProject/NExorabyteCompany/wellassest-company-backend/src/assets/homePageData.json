@@ -1,0 +1,73 @@
+{
+  "homePage": {
+    "homeHero": {
+      "backgroundImage": "https://www.maramani.com/cdn/shop/files/Two-story4bedroomhouse-ID2441101.jpg?v=1715872374",
+      "videoThumbnail": "https://res.cloudinary.com/dowpna0vx/image/upload/v1750486795/wellasset/storage/ekxzieobjscv44xjengl.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=examplesdsfddfd"
+    },
+    "HomeSlider": [
+      {
+        "id": 1,
+        "title": "sdf",
+        "subtitle": "sdf",
+        "image": "https://res.cloudinary.com/dowpna0vx/image/upload/v1750484566/wellasset/storage/skrvi2vxvcw4pwym6suj.jpg"
+      },
+      {
+        "id": 2,
+        "title": "sdfd",
+        "subtitle": "sdf",
+        "image": "https://res.cloudinary.com/dowpna0vx/image/upload/v1750484587/wellasset/storage/suo4a90yn7vaxjoybbpv.jpg"
+      },
+      {
+        "id": 3,
+        "title": "sdf",
+        "subtitle": "ddd",
+        "image": "https://res.cloudinary.com/dowpna0vx/image/upload/v1750484671/wellasset/storage/g7r6opnakc0tfdmasmft.png"
+      },
+      {
+        "id": 4,
+        "title": "sdf",
+        "subtitle": "sdf",
+        "image": "https://res.cloudinary.com/dowpna0vx/image/upload/v1750484731/wellasset/storage/kkptpvo1c8zrhev4kth2.jpg"
+      },
+      {
+        "id": 5,
+        "title": "sdf",
+        "subtitle": "sdfd",
+        "image": "https://res.cloudinary.com/dowpna0vx/image/upload/v1750484751/wellasset/storage/zrbvfko9mg8jnvql6fgs.jpg"
+      },
+      {
+        "id": 6,
+        "title": "sdfds",
+        "subtitle": "sdf",
+        "image": "https://res.cloudinary.com/dowpna0vx/image/upload/v1750484852/wellasset/storage/y87gp4zwcuna1oju2guy.jpg"
+      }
+    ],
+    "homeExcellence": [
+      {
+        "id": 1,
+        "icon": "https://sheltech-bd.com/cms/admin/uploads/page/home/1714644496yf2Pg.png",
+        "title": "On-Time Handover",
+        "description": "We provide on-time handover to our clients."
+      },
+      {
+        "id": 2,  
+        "title": "ROI Optimized",
+        "icon": "https://sheltech-bd.com/cms/admin/uploads/page/home/1714644009g0wFe.png",
+        "description": "We provide ROI optimized projects."
+      },
+      {
+        "id": 3,
+        "title": "dfdf",
+        "description": "dfdfd",
+        "icon": "https://res.cloudinary.com/dowpna0vx/image/upload/v1750489781/wellasset/storage/eiohlgcqrg24aatrmfwj.png"
+      },
+      {
+        "id": 4,
+        "title": "d",
+        "description": "d",
+        "icon": "https://res.cloudinary.com/dowpna0vx/image/upload/v1750490445/wellasset/storage/ue7sk2tysvfqrrn3t2gg.png"
+      }
+    ]
+  }
+}

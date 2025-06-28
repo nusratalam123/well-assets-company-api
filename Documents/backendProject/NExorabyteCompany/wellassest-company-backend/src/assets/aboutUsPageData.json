@@ -1,0 +1,256 @@
+{
+  "aboutPage": {
+    "aboutHero": {
+      "title": "A LEGACY OF EXCELLENCE",
+      "backgroundImage": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1707390568PpFJs.jpg"
+    },
+    "legacySection": {
+      "title": "A LEGACY WRITTEN IN CONCRETE update",
+      "paragraphs": [
+        "Well assets (Pvt.) Ltd., established in 1988, is one of the pioneers in the Real Estate and Housing Industry of Bangladesh and one of the founding members of the Real Estate & Housing Association of Bangladesh (REHAB). During its 37 years journey, Well assets has constructed over 4110 apartments (Residential & Commercial) all around Dhaka city and has become a household name for real estate.",
+        "All Well assets buildings are designed according to the guidelines stated in the Bangladesh National Building Code (BNBC). As such, Well assets was the first developer to be awarded the ISO 9001:2015 certificate, in recognition of our quality construction and management practices in the real estate development sector.",
+        "At Well assets, we believe that our most important achievement to date has been earning the trust and confidence of our clients and patrons. We would like to take this opportunity to thank you for giving us the opportunity to build the home of your dreams."
+      ],
+      "image": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/170739096928XF2.jpg"
+    },
+    "milestoneSection": {
+      "title": "Our Milestones",
+      "items": [
+        {
+          "id": 1,
+          "value": "37",
+          "label": "Years of Experience"
+        },
+        {
+          "id": 2,
+          "value": "142,000",
+          "label": "Site visits to ensure quality"
+        },
+        {
+          "id": 3,
+          "value": "176",
+          "label": "Projects delivered on time"
+        },
+        {
+          "id": 4,
+          "value": "20,000",
+          "label": "Residents living happily"
+        },
+        {
+          "id": 5,
+          "value": "4,110",
+          "label": "Units built with care"
+        },
+        {
+          "id": 6,
+          "value": "8,000,000",
+          "label": "Sq ft of real estate developed update"
+        }
+      ]
+    },
+    "missionSection": {
+      "title": "OUR MISSION",
+      "description": "Our mission is to facilitate our clients with an unparalleled living experience by redefining luxury with seamless convenience.",
+      "image": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1709631324hiYG9.jpg"
+    },
+    "visionSection": {
+      "title": "OUR VISION",
+      "description": "Well assets aims for customer satisfaction, sustained quality, leadership in real estate, and continual improvement.",
+      "image": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1709631388NzQE1.jpg"
+    },
+    "csrImages": [
+      {
+        "id": 1,
+        "src": "https://Well assets-bd.com/cms/admin/uploads/page/csr/17160282191f4OH.jpg",
+        "name": "Well assets Extends Support to Triathlete Imtiaz Ilahi for Norseman Xtreme Triathlon",
+        "url": "well-asset-extends-support"
+      },
+      {
+        "id": 2,
+        "src": "https://Well assets-bd.com/cms/admin/uploads/page/csr/1707888502365kg.jpg",
+        "name": "Well assets Group becomes a Platinum Sponsor of the Dhaka Half Marathon 2020",
+        "url": "envoy-well-asset-aviation"
+      },
+      {
+        "id": 3,
+        "src": "https://Well assets-bd.com/cms/admin/uploads/page/csr/1707888655VnkFB.jpg",
+        "name": "Well assets Group conducted a voluntary blood donation initiative on March 07, 2020 at Well assets Lounge",
+        "url": "well-asset-holdings"
+      },
+      {
+        "id": 4,
+        "src": "https://Well assets-bd.com/cms/admin/uploads/page/csr/1706160971mMe6X.png",
+        "name": "Platinum Sponsor of 'BGMEA Cup 2025’",
+        "url": "bengal-meat-processing"
+      },
+      {
+        "id": 5,
+        "src": "https://Well assets-bd.com/cms/admin/uploads/page/csr/17160282191new.jpg",
+        "name": "New CSR Event",
+        "url": "new-csr-event"
+      }
+    ],
+    "excellenceItems": [
+      {
+        "id": 1,
+        "title": "On-Time Handover",
+        "description": "At Well Asset, our unwavering client commitment is at the heart of our business. We consistently deliver projects on time, regardless of market conditions, showcasing our dedication to meeting client expectations.",
+        "icon": "FaClock"
+      },
+      {
+        "id": 2,
+        "title": "Client Satisfaction",
+        "description": "Well Asset upholds the principle: Once a client, always a client. Even after handover, we are here to provide any service, whether it's assisting with interior design, maintenance, or simply being a listening ear for your feedback. We have many experiences helping clients and landowners with requests, even 27 years after project handover.",
+        "icon": "FaSmile"
+      },
+      {
+        "id": 3,
+        "title": "Ethical Engineering",
+        "description": "We maintain distinct safety and quality teams, overseeing every construction facet to ensure precise adherence to the design. Our commitment extends to upholding material quality, workmanship standards, and worker safety.",
+        "icon": "FaHardHat"
+      },
+      {
+        "id": 4,
+        "title": "Quality Construction",
+        "description": "Since 1988, Well Asset has designed and built over 168 projects, adhering to the Rajdhani Unnayan Kartripakkha (RAJUK), Bangladesh National Building Code (BNBC), and all relevant codes. Our building meets earthquake and fire safety standards, incorporates green spaces and community amenities, and ensures disability access.",
+        "icon": "FaBuilding"
+      },
+      {
+        "id": 5,
+        "title": "Symbol of Excellence",
+        "description": "Since 1988, Well Asset (Pvt.) Ltd. has been dedicated to delivering quality homes to Dhaka's residents. Despite Dhaka's smaller scale then, our management foresaw its potential and worked tirelessly to create ideal homes. With 36 years of experience, Well Asset has constructed over 3870 apartments across Dhaka, earning the trust and confidence of clients like you, allowing us to fulfill their dream homes.",
+        "icon": "FaCogs"
+      }
+    ],
+    "recognitionItems": [
+      {
+        "id": 1,
+        "src": "https://via.placeholder.com/500",
+        "title": "On-Time Handover",
+        "description": "We guarantee the timely completion and handover of all our projects."
+      },
+      {
+        "id": 2,
+        "src": "https://via.placeholder.com/500",
+        "title": "Client Satisfaction",
+        "description": "Our main goal is client satisfaction, ensuring we meet their expectations at every stage."
+      },
+      {
+        "id": 3,
+        "src": "https://via.placeholder.com/500",
+        "title": "Ethical Engineering",
+        "description": "We follow ethical practices and values in all our engineering projects."
+      },
+      {
+        "id": 4,
+        "src": "https://via.placeholder.com/500",
+        "title": "Quality Construction",
+        "description": "Our focus is on delivering top-notch quality in every construction project."
+      },
+      {
+        "id": 5,
+        "src": "https://via.placeholder.com/500",
+        "title": "Symbol of Excellence",
+        "description": "We strive for excellence in everything we do, setting industry standards."
+      }
+    ],
+    "companies": [
+      {
+        "id": 1,
+        "name": "Well assets Consultants (Pvt.) Ltd.",
+        "logo": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1709608848SE6Jl.svg",
+        "description": "A leading consultancy firm in the real estate and construction sector.",
+        "phone": "+880123456789",
+        "website": "https://wellassetcompany.com"
+      },
+      {
+        "id": 2,
+        "name": "Envoy Well assets Aviation Ltd.",
+        "logo": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1709609914Z9SR2.svg",
+        "description": "Providing aviation solutions with a strong focus on safety and punctuality.",
+        "phone": "+8802345678901",
+        "website": "https://wellassetcompany.com"
+      },
+      {
+        "id": 3,
+        "name": "Well assets Holdings Ltd.",
+        "logo": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1709609833B459s.svg",
+        "description": "A prominent real estate developer, offering residential and commercial spaces.",
+        "phone": "+880345678901",
+        "website": "https://wellassetcompany.com"
+      },
+      {
+        "id": 4,
+        "name": "Bengal Meat Processing Industries Ltd.",
+        "logo": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1709609563uPO50.svg",
+        "description": "Leading the meat processing industry with a commitment to quality and hygiene.",
+        "phone": "+880456789012",
+        "website": "https://bengalmeat.com"
+      },
+      {
+        "id": 5,
+        "name": "Well assets Property Management Ltd.",
+        "logo": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1709609636gnqac.svg",
+        "description": "Providing comprehensive property management solutions for real estate owners.",
+        "phone": "+880567890123",
+        "website": "https://wellassetcompany.com"
+      },
+      {
+        "id": 6,
+        "name": "Well assets Engineering Ltd.",
+        "logo": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1709609692iOXYp.svg",
+        "description": "Offering engineering solutions in various sectors including construction and infrastructure.",
+        "phone": "+880678901234",
+        "website": "https://wellassetcompany.com"
+      },
+      {
+        "id": 7,
+        "name": "Well assets Brokerage Ltd.",
+        "logo": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/17096097538i6k0.svg",
+        "description": "An innovative real estate brokerage offering professional services to buyers and sellers.",
+        "phone": "+880789012345",
+        "website": "https://wellassetcompany.com"
+      },
+      {
+        "id": 8,
+        "name": "Well assets Technology Ltd.",
+        "logo": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1709609788HWOpn.svg",
+        "description": "Providing technological solutions to enhance business operations across various sectors.",
+        "phone": "+880890123456",
+        "website": "https://wellassetcompany.com"
+      },
+      {
+        "id": 9,
+        "name": "Well assets Ceramics Ltd.",
+        "logo": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/17096098655I2wh.svg",
+        "description": "A leader in the ceramics industry, offering premium tiles and other related products.",
+        "phone": "+880901234567",
+        "website": "https://wellassetcompany.com"
+      },
+      {
+        "id": 10,
+        "name": "Sreemangal Tea Estate Ltd.",
+        "logo": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1709609471XPT5u.svg",
+        "description": "Growing and processing some of the finest tea in the region.",
+        "phone": "+880112233445",
+        "website": "https://sreemangaltea.com"
+      },
+      {
+        "id": 11,
+        "name": "Grind Tech Ltd.",
+        "logo": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1709609940enaOa.svg",
+        "description": "Providing cutting-edge technology solutions for grinding and milling industries.",
+        "phone": "+880223344556",
+        "website": "https://grindtech.com"
+      },
+      {
+        "id": 12,
+        "name": "Well assets Homes Ltd.",
+        "logo": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1709609982zk1Nx.svg",
+        "description": "Building homes with a focus on modern design and customer satisfaction.",
+        "phone": "+880334455667",
+        "website": "https://wellassetcompany.com"
+      }
+    ]
+  }
+}

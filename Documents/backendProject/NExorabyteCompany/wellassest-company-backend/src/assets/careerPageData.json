@@ -1,0 +1,82 @@
+{
+  "careerPage": {
+    "careerHeader": {
+      "title": "Level up with well asset",
+      "subtitle": "Career",
+      "logo": "https://res.cloudinary.com/dowpna0vx/image/upload/v1750500552/wellasset/storage/mimn0mnixmznldqvyqsw.jpg"
+    },
+    "careerSecond": {
+      "title": "EMPOWERING GROWTH & NURTURING TALENT",
+      "logo": "",
+      "para1": "At Well Asset Pvt Ltd, we believe that our most valuable asset is our people. Our human resources philosophy is rooted in the principles of growth, opportunity, and excellence. We strive to create an environment that fosters professional development, encodfurages innovative thinking, and values diversity. We recognize that the success of our company is directly linked to the personal and professional success of our employees. Thus, we offer a multitude of opportunities for learning and advancement, enabling each team member to reach their full potential.",
+      "para2": ""
+    },
+    "departments": [
+      {
+        "id": 1,
+        "title": "HR & Admin",
+        "logo": "⚙️"
+      },
+      {
+        "id": 2,
+        "title": "Utility & Logistics",
+        "logo": "🚚"
+      },
+      {
+        "id": 3,
+        "title": "Legal & Compliance",
+        "logo": "🔒"
+      },
+      {
+        "id": 4,
+        "title": "Sales",
+        "logo": "💼"
+      },
+      {
+        "id": 5,
+        "title": "Safety & Quality Control",
+        "logo": "🔬"
+      },
+      {
+        "id": 6,
+        "title": "Research, Development & Compliance",
+        "logo": "🎨"
+      },
+      {
+        "id": 7,
+        "title": "Procurement",
+        "logo": "💻"
+      },
+      {
+        "id": 8,
+        "title": "Law",
+        "logo": "📦"
+      },
+      {
+        "id": 9,
+        "title": "Inventory",
+        "logo": "📊"
+      },
+      {
+        "id": 10,
+        "title": "Interior Design",
+        "logo": "🔧"
+      },
+      {
+        "id": 11,
+        "title": "ICT",
+        "logo": "💻"
+      },
+      {
+        "id": 12,
+        "title": "Finance ",
+        "logo": "💳"
+      },
+      {
+        "id": 14,
+        "title": "sdfd",
+        "logo": "😎"
+      }
+    ]
+  }
+}

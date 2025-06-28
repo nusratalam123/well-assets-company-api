@@ -1,0 +1,113 @@
+{
+  "leaderPage": {
+    "leaderHero": {
+      "title": "THE LEADERS OF WELL ASSETS COMPANY",
+      "backgroundImage": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1707390568PpFJs.jpg"
+    },
+    "founderSection": {
+      "name": "Late Dr. Toufiq M. Seraj (1956–2019)",
+      "title": "FOUNDER OF WELL ASSETS COMPANY",
+      "description": [
+        "Dr. Toufiq M. Seraj was the Founder and former Managing Director of Well Assets Company and its associated companies. He was a visionary leader in real estate in Bangladesh and played a pioneering role in making the real estate industry what it is today.",
+        "His vision to provide beautiful and quality homes for the residents of Dhaka led Well Assets Company to develop over 3700 apartments all over the city, transforming Well Assets Company into a symbol of excellence in the real estate industry of Bangladesh."
+      ],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn-Vg13veh_q5OJ2gOermFVeleW_ALIP_bkw&s"
+    },
+    "leaderOfTeam": [
+      {
+        "id": 1,
+        "name": "Jany",
+        "title": "Chairman-person",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rtI5U2gRrevaQn19JTMtfqO7rxJyuExLKaIQ_lvabAuzIDfWXG0cnNub2HdcOIVBdYw&usqp=CAU"
+      },
+      {
+        "id": 2,
+        "name": "Engr. Sk Bashir Ahmed",
+        "title": "Vice Chairman",
+        "imageUrl": "https://img.freepik.com/premium-vector/professional-cartoon-businessman-icon-vector-illustration_1138841-23892.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Tanvir Ahmed Bhuiyan",
+        "title": "Managing Director",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpScIG4CyEDGTD9UkZt3JNf1SAA9jRc-s8z-khOdoHq0YL7l9DstlclPQhTZhKNvLIaE8&usqp=CAU"
+      },
+      {
+        "id": 4,
+        "name": "Sumayyah Ahmed",
+        "title": "Director",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgd5o7HL7_DVvEgAj_JupXQaYM-eeHGCRMw&s"
+      }
+    ],
+    "managementTeam": [
+      {
+        "id": 1,
+        "name": "Md. Sharif Ahmed",
+        "title": "Executive Director, Operations",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfiOKnZvkq2ZX_wnypwf4x86Z-ChKbZPYzLw&s"
+      },
+      {
+        "id": 2,
+        "name": "Shaikh Shaiyan Ahmed",
+        "title": "Associate Director",
+        "imageUrl": "https://img.freepik.com/premium-photo/adorable-male-manager-character-cute-boy-supervisor-illustration-cartoon-office-manager-young-pro_980716-79581.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Ahmed Anwar",
+        "title": "Associate Director",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKKsiHY57DozZ6AXEDdnt1vq5yJppK-pISnEMH5dd7Y5IONsFPrIlb91_OVMR9JsNCxWE&usqp=CAU"
+      },
+      {
+        "id": 4,
+        "name": "Mr. Shajahan",
+        "title": "Chief Operating Officer",
+        "imageUrl": "https://img.freepik.com/premium-photo/adorable-male-manager-character-cute-boy-supervisor-illustration-cartoon-office-manager-young-pro_980716-79605.jpg?w=360"
+      }
+    ],
+    "recognitions": [
+      {
+        "id": 1,
+        "src": "https://media.istockphoto.com/id/1257101256/vector/happy-people-jumping-celebrating-victory-flat-cartoon-characters-illustration.jpg?s=612x612&w=0&k=20&c=mjajhkk2Ylq69UaJMIKZRlF27qHuWJMcZPb9LxmUxqs=",
+        "name": "Engr. Kutubuddin Ahmed Appointed Honorary Consul of Timor-Leste",
+        "description": "Engr. Kutubuddin Ahmed has been appointed as the Honorary Consul for Timor-Leste, enhancing diplomatic relations."
+      },
+      {
+        "id": 2,
+        "src": "https://media.istockphoto.com/id/1341803072/vector/happy-business-employee-team-winners-award-ceremony-flat-style-design-vector-illustration.jpg?s=612x612&w=0&k=20&c=JfskaOQoL0XSWndhFBP1-mm0ryFhHVEX8VQeZl8y-mM=",
+        "name": "Engr. Sk. Bashir Ahmed Elected Director of Abahani Limited",
+        "description": "Engr. Sk. Bashir Ahmed takes a leading role at Abahani Limited, shaping the future of Bangladesh's premier football club."
+      },
+      {
+        "id": 3,
+        "src": "https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-employee-recognition-clipart-businessman-with-a-trophy-and-awards-for-being-vector-png-image_6868395.png",
+        "name": "Kutubuddin Ahmed Honored as CIP in Manufacturing by Government of Bangladesh",
+        "description": "Kutubuddin Ahmed's exemplary contribution to the manufacturing sector has earned him the prestigious CIP honor."
+      },
+      {
+        "id": 4,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkV5AiERg-4rD04MO-Kn5gUjnIi8m41Aw5gSLr33tpx5jzNMLR-qgdLpMVuEdVxdqdWTE&usqp=CAU",
+        "name": "Engr. Sk. Bashir Ahmed Mamun Receives ‘Certificate of Appreciation’ from Asian Gymnastics Union",
+        "description": "For his contributions to sports development, Engr. Sk. Bashir Ahmed Mamun was awarded a Certificate of Appreciation by the Asian Gymnastics Union."
+      },
+      {
+        "id": 5,
+        "src": "https://jobbloghq.com/wp-content/uploads/2024/11/employee-recognition.jpg",
+        "name": "Mr. Tanvir Ahmed Elected as Board Director of MCCI Dhaka",
+        "description": "Mr. Tanvir Ahmed's leadership skills earned him a position as a Board Director of the Metropolitan Chamber of Commerce and Industry Dhaka."
+      },
+      {
+        "id": 6,
+        "src": "https://blog.advantageclub.co/wp-content/uploads/2024/08/employee-recognition-programs.webp",
+        "name": "Mr. Kutubuddin Ahmed Conferred Knight Officer Honor by King of Spain",
+        "description": "Mr. Kutubuddin Ahmed was honored with the prestigious Knight Officer recognition by the King of Spain for his outstanding contributions."
+      },
+      {
+        "id": 7,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfr4D8okQieWi8zu9djBacie3lIw15T2DhrbEKKWk5uLo1OddxRxWdzJIK-R-lRffJgUU&usqp=CAU",
+        "name": "Engr. Kutubuddin Ahmed & Mr. Tanvir Ahmed have been Awarded the CIP Status for 2022",
+        "description": "Both Engr. Kutubuddin Ahmed and Mr. Tanvir Ahmed were awarded the prestigious CIP status for their outstanding contributions in the year 2022."
+      }
+    ]
+  }
+}

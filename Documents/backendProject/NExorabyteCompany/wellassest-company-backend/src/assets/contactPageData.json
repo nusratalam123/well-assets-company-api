@@ -1,0 +1,21 @@
+{
+  "contactPage": {
+    "titleImage": {
+      "alt": "CONTACT OUR TEAM FOR PROFESSIONALS SUPPORT",
+      "title": "Contact Us",
+      "url": "dfdf"
+    },
+    "keepInTouch": {
+      "heading": "KEEP IN TOUCH update",
+      "address1": "Well Asset Towerdfdfd",
+      "address2": "60, Sheikh Russel Square, West Panthapath, Dhaka 1205, Bangladesh",
+      "email": "wellasset@gmail.com",
+      "salesEnquiry": "+88017123456782",
+      "jointVentureDevelopment": "+8801712345679",
+      "generalEnquiry": "+8801712345680",
+      "internationalCaller": "+8801712345681",
+      "whatsapp": "+8801712345682",
+      "mapLocation": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4732.294980424101!2d90.42643171954377!3d23.850646501275254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c671012602eb%3A0x27761cc8da96b3b7!2sNorthern%20University%20Bangladesh%2C%20Permanent%20Campus!5e0!3m2!1sen!2sbd!4v1750492552639!5m2!1sen!2sbd\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    }
+  }
+}

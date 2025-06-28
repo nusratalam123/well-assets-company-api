@@ -1,0 +1,1286 @@
+{
+  "projectPage": {
+    "projectHero": {
+      "title": "Residential Projects",
+      "subtitle": "Crafting Your Dream Home",
+      "backgroundImage": "https://sheltech-bd.com/cms/admin/uploads/page/projects/1706162099ULACL.jpg"
+    },
+    "projects": [
+      {
+        "id": 1,
+        "name": "Well assets Prottasha",
+        "slug": "well-asset-prottasha",
+        "status": "Upcoming",
+        "location": "Dhanmondi",
+        "city": "Dhaka",
+        "type": "Saphire Series",
+        "size": "1500-2000",
+        "image": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576ruzYi.jpg",
+        "detailItems": [
+          {
+            "iconKey": "location_on",
+            "label": "Address",
+            "value": "Plot 24/B, Road 03, Dhanmondi R/A, Dhaka"
+          },
+          {
+            "iconKey": "home",
+            "label": "Type",
+            "value": "Residential Building"
+          },
+          {
+            "iconKey": "landscape",
+            "label": "Land Area",
+            "value": "10 Katha"
+          },
+          {
+            "iconKey": "storefront",
+            "label": "Levels",
+            "value": "10 Storied (B+G+9)"
+          },
+          {
+            "iconKey": "apartment",
+            "label": "Apartment Size",
+            "value": "2650 sq. ft. (Approx)"
+          },
+          {
+            "iconKey": "unarchive",
+            "label": "Units Per Level",
+            "value": "02"
+          },
+          {
+            "iconKey": "business",
+            "label": "Units",
+            "value": "16"
+          },
+          {
+            "iconKey": "local_parking",
+            "label": "Parkings",
+            "value": "24"
+          },
+          {
+            "iconKey": "elevator",
+            "label": "Elevator",
+            "value": "02"
+          },
+          {
+            "iconKey": "stairs",
+            "label": "Staircase",
+            "value": "01, with Fire Door"
+          },
+          {
+            "iconKey": "bed",
+            "label": "Bedroom",
+            "value": "04"
+          },
+          {
+            "iconKey": "calendar_today",
+            "label": "Handover",
+            "value": "2028"
+          },
+          {
+            "iconKey": "group",
+            "label": "Design Consultant",
+            "value": "ARCAYOTIK"
+          }
+        ],
+        "features": [
+          "h12",
+          "24/7 Security",
+          "Gymnasium",
+          "Children's Play Area",
+          "Jogging Track"
+        ],
+        "amenities": [
+          "High-Speed Elevators",
+          "Parking Garage",
+          "Backup Generator",
+          "Rooftop Garden"
+        ],
+        "images": [
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576ruzYi.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576q7iSq.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766ktYR.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576yC44u.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576kdmlw.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576iWKUb.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576GfCbE.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/173926657634GuV.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576sxV2T.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766Nfmo.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266583PfbN2.jpg"
+        ],
+        "locationCoordinates": {
+          "lat": 23.7467,
+          "lng": 90.3794
+        },
+        "relatedProjects": [
+          {
+            "title": "Luxury Apartment Complex",
+            "description": "A modern, luxurious apartment with premium amenities and exquisite design.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-winter-berry/1734603696TJgzS.jpg",
+            "link": "projects?type=residential"
+          },
+          {
+            "title": "Smart Home Technology",
+            "description": "The latest in smart home tech, offering full automation and convenience.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-rebecca-mohiuddin/1715149207xHbO5.jpg",
+            "link": "projects?type=residential"
+          },
+          {
+            "title": "Office Tower Development",
+            "description": "State-of-the-art office tower for business professionals and companies.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-cool-breeze/1742797849FTqlK.jpg",
+            "link": "projects?type=residential"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Well assets Greenview",
+        "slug": "well-asset-greenview",
+        "status": "Ongoing",
+        "location": "Uttara",
+        "city": "Dhaka",
+        "type": "Condominium",
+        "size": "2000-2500",
+        "image": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-aziz-residences/1736248691pB0k6.jpg",
+        "detailItems": [
+          {
+            "iconKey": "location_on",
+            "label": "Address",
+            "value": "Plot 10/B, Uttara, Dhaka"
+          },
+          {
+            "iconKey": "home",
+            "label": "Type",
+            "value": "Condominium"
+          },
+          {
+            "iconKey": "landscape",
+            "label": "Land Area",
+            "value": "15 Katha"
+          },
+          {
+            "iconKey": "storefront",
+            "label": "Levels",
+            "value": "15 Storied"
+          },
+          {
+            "iconKey": "apartment",
+            "label": "Apartment Size",
+            "value": "1800 sq. ft."
+          },
+          {
+            "iconKey": "unarchive",
+            "label": "Units Per Level",
+            "value": "04"
+          },
+          {
+            "iconKey": "business",
+            "label": "Units",
+            "value": "60"
+          },
+          {
+            "iconKey": "local_parking",
+            "label": "Parkings",
+            "value": "50"
+          },
+          {
+            "iconKey": "elevator",
+            "label": "Elevator",
+            "value": "04"
+          },
+          {
+            "iconKey": "stairs",
+            "label": "Staircase",
+            "value": "02"
+          },
+          {
+            "iconKey": "bed",
+            "label": "Bedroom",
+            "value": "03"
+          },
+          {
+            "iconKey": "calendar_today",
+            "label": "Handover",
+            "value": "2025"
+          },
+          {
+            "iconKey": "group",
+            "label": "Design Consultant",
+            "value": "well-asset Architects"
+          }
+        ],
+        "features": [
+          "Swimming Pool",
+          "24/7 Security",
+          "Gymnasium",
+          "Children's Play Area",
+          "Jogging Track"
+        ],
+        "amenities": [
+          "High-Speed Elevators",
+          "Parking Garage",
+          "Backup Generator",
+          "Rooftop Garden"
+        ],
+        "images": [
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576ruzYi.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576q7iSq.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766ktYR.jpg"
+        ],
+        "locationCoordinates": {
+          "lat": 23.7467,
+          "lng": 90.3794
+        },
+        "relatedProjects": [
+          {
+            "title": "Luxury Apartment Complex",
+            "description": "A modern, luxurious apartment with premium amenities and exquisite design.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-winter-berry/1734603696TJgzS.jpg",
+            "link": "#"
+          },
+          {
+            "title": "Smart Home Technology",
+            "description": "The latest in smart home tech, offering full automation and convenience.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-rebecca-mohiuddin/1715149207xHbO5.jpg",
+            "link": "#"
+          },
+          {
+            "title": "Office Tower Development",
+            "description": "State-of-the-art office tower for business professionals and companies.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-cool-breeze/1742797849FTqlK.jpg",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Well assets Legacy",
+        "slug": "well-asset-legacy",
+        "status": "Handed Over",
+        "location": "Banani",
+        "city": "Dhaka",
+        "type": "Land",
+        "size": "Below 1500",
+        "image": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-mh-heights/1733910169rzL9v.jpg",
+        "detailItems": [
+          {
+            "iconKey": "location_on",
+            "label": "Address",
+            "value": "Plot 32, Banani, Dhaka"
+          },
+          {
+            "iconKey": "home",
+            "label": "Type",
+            "value": "Land"
+          },
+          {
+            "iconKey": "landscape",
+            "label": "Land Area",
+            "value": "20 Katha"
+          },
+          {
+            "iconKey": "storefront",
+            "label": "Levels",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "apartment",
+            "label": "Apartment Size",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "unarchive",
+            "label": "Units Per Level",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "business",
+            "label": "Units",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "local_parking",
+            "label": "Parkings",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "elevator",
+            "label": "Elevator",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "stairs",
+            "label": "Staircase",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "bed",
+            "label": "Bedroom",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "calendar_today",
+            "label": "Handover",
+            "value": "2022"
+          },
+          {
+            "iconKey": "group",
+            "label": "Design Consultant",
+            "value": "Architect Studio"
+          }
+        ],
+        "features": [
+          "Outdoor Fitness Area",
+          "Private Balcony in Every Unit",
+          "Smart Home Integration",
+          "Pet-Friendly Zone",
+          "Barbecue Area"
+        ],
+        "amenities": [
+          "24/7 Concierge Service",
+          "Luxury Spa & Wellness Center",
+          "Infinity Pool",
+          "Private Parking for Residents",
+          "Co-working Space"
+        ],
+        "images": [
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576ruzYi.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576q7iSq.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766ktYR.jpg"
+        ],
+        "locationCoordinates": {
+          "lat": 23.7467,
+          "lng": 90.3794
+        },
+        "relatedProjects": [
+          {
+            "title": "Luxury Apartment Complex",
+            "description": "A modern, luxurious apartment with premium amenities and exquisite design.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-winter-berry/1734603696TJgzS.jpg",
+            "link": "#"
+          },
+          {
+            "title": "Smart Home Technology",
+            "description": "The latest in smart home tech, offering full automation and convenience.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-rebecca-mohiuddin/1715149207xHbO5.jpg",
+            "link": "#"
+          },
+          {
+            "title": "Office Tower Development",
+            "description": "State-of-the-art office tower for business professionals and companies.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-cool-breeze/1742797849FTqlK.jpg",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Well Asset Empire",
+        "slug": "well-asset-empire",
+        "status": "Handed Over",
+        "location": "Banani",
+        "city": "Dhaka",
+        "type": "Land",
+        "size": "Below 1500",
+        "image": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-crimson-palace/1733989625mcgXa.jpg",
+        "detailItems": [
+          {
+            "iconKey": "location_on",
+            "label": "Address",
+            "value": "Plot 32, Banani, Dhaka"
+          },
+          {
+            "iconKey": "home",
+            "label": "Type",
+            "value": "Land"
+          },
+          {
+            "iconKey": "landscape",
+            "label": "Land Area",
+            "value": "20 Katha"
+          },
+          {
+            "iconKey": "storefront",
+            "label": "Levels",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "apartment",
+            "label": "Apartment Size",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "unarchive",
+            "label": "Units Per Level",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "business",
+            "label": "Units",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "local_parking",
+            "label": "Parkings",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "elevator",
+            "label": "Elevator",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "stairs",
+            "label": "Staircase",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "bed",
+            "label": "Bedroom",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "calendar_today",
+            "label": "Handover",
+            "value": "2022"
+          },
+          {
+            "iconKey": "group",
+            "label": "Design Consultant",
+            "value": "Architect Studio"
+          }
+        ],
+        "features": [
+          "Outdoor Fitness Area",
+          "Private Balcony in Every Unit",
+          "Smart Home Integration",
+          "Pet-Friendly Zone",
+          "Barbecue Area"
+        ],
+        "amenities": [
+          "24/7 Concierge Service",
+          "Luxury Spa & Wellness Center",
+          "Infinity Pool",
+          "Private Parking for Residents",
+          "Co-working Space"
+        ],
+        "images": [
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576ruzYi.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576q7iSq.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766ktYR.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576yC44u.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576kdmlw.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576iWKUb.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576GfCbE.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576GfCbE.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/173926657634GuV.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576sxV2T.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766Nfmo.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266583PfbN2.jpg"
+        ],
+        "locationCoordinates": {
+          "lat": 23.7467,
+          "lng": 90.3794
+        },
+        "relatedProjects": [
+          {
+            "title": "Luxury Apartment Complex",
+            "description": "A modern, luxurious apartment with premium amenities and exquisite design.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-winter-berry/1734603696TJgzS.jpg",
+            "link": "#"
+          },
+          {
+            "title": "Smart Home Technology",
+            "description": "The latest in smart home tech, offering full automation and convenience.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-rebecca-mohiuddin/1715149207xHbO5.jpg",
+            "link": "#"
+          },
+          {
+            "title": "Office Tower Development",
+            "description": "State-of-the-art office tower for business professionals and companies.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-cool-breeze/1742797849FTqlK.jpg",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Well Asset Eden",
+        "slug": "well-asset-eden",
+        "status": "Upcoming",
+        "location": "Bashundhara",
+        "city": "Chattogram",
+        "type": "Residential",
+        "size": "2500+",
+        "image": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-crimson-palace/1733989625mcgXa.jpg",
+        "detailItems": [
+          {
+            "iconKey": "location_on",
+            "label": "Address",
+            "value": "Plot 50, Bashundhara, Chattogram"
+          },
+          {
+            "iconKey": "home",
+            "label": "Type",
+            "value": "Residential Building"
+          },
+          {
+            "iconKey": "landscape",
+            "label": "Land Area",
+            "value": "25 Katha"
+          },
+          {
+            "iconKey": "storefront",
+            "label": "Levels",
+            "value": "12 Storied"
+          },
+          {
+            "iconKey": "apartment",
+            "label": "Apartment Size",
+            "value": "3500 sq. ft."
+          },
+          {
+            "iconKey": "unarchive",
+            "label": "Units Per Level",
+            "value": "05"
+          },
+          {
+            "iconKey": "business",
+            "label": "Units",
+            "value": "60"
+          },
+          {
+            "iconKey": "local_parking",
+            "label": "Parkings",
+            "value": "80"
+          },
+          {
+            "iconKey": "elevator",
+            "label": "Elevator",
+            "value": "04"
+          },
+          {
+            "iconKey": "stairs",
+            "label": "Staircase",
+            "value": "02"
+          },
+          {
+            "iconKey": "bed",
+            "label": "Bedroom",
+            "value": "05"
+          },
+          {
+            "iconKey": "calendar_today",
+            "label": "Handover",
+            "value": "2027"
+          },
+          {
+            "iconKey": "group",
+            "label": "Design Consultant",
+            "value": "Urban Design"
+          }
+        ],
+        "features": [
+          "Indoor Basketball Court",
+          "Private Movie Theater",
+          "24/7 Emergency Medical Assistance",
+          "Wine Cellar",
+          "Electric Car Charging Stations",
+          "Bicycle Storage",
+          "Clubhouse with Lounge",
+          "Rooftop Terrace with Panoramic View",
+          "On-Demand Room Service",
+          "Open-Air Yoga Deck"
+        ],
+        "amenities": [
+          "Valet Parking",
+          "Pet Spa and Grooming Services",
+          "Gourmet Coffee Bar",
+          "Cozy Fire Pit Area",
+          "Business Center with Conference Rooms",
+          "Heated Outdoor Pool",
+          "Sauna and Steam Rooms",
+          "Private Storage Units",
+          "High-End Retail Shops",
+          "Smart Home Devices in Every Unit",
+          "Maintenance Services Available 24/7",
+          "Water Features & Fountains"
+        ],
+        "images": [
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576ruzYi.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576q7iSq.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766ktYR.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576yC44u.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576kdmlw.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576iWKUb.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576GfCbE.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576GfCbE.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/173926657634GuV.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576sxV2T.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766Nfmo.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266583PfbN2.jpg"
+        ],
+        "locationCoordinates": {
+          "lat": 23.7467,
+          "lng": 90.3794
+        },
+        "relatedProjects": [
+          {
+            "title": "Luxury Apartment Complex",
+            "description": "A modern, luxurious apartment with premium amenities and exquisite design.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-winter-berry/1734603696TJgzS.jpg",
+            "link": "#"
+          },
+          {
+            "title": "Smart Home Technology",
+            "description": "The latest in smart home tech, offering full automation and convenience.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-rebecca-mohiuddin/1715149207xHbO5.jpg",
+            "link": "#"
+          },
+          {
+            "title": "Office Tower Development",
+            "description": "State-of-the-art office tower for business professionals and companies.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-cool-breeze/1742797849FTqlK.jpg",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Well Asset Obokash",
+        "slug": "well-asset-obokash",
+        "status": "Handed Over",
+        "location": "Eskaton",
+        "city": "Dhaka",
+        "type": "Commercial",
+        "size": "1500-2000",
+        "image": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-windflower/1706521687CgdPK.jpg",
+        "detailItems": [
+          {
+            "iconKey": "location_on",
+            "label": "Address",
+            "value": "Plot 25, Eskaton, Dhaka"
+          },
+          {
+            "iconKey": "home",
+            "label": "Type",
+            "value": "Commercial Building"
+          },
+          {
+            "iconKey": "landscape",
+            "label": "Land Area",
+            "value": "18 Katha"
+          },
+          {
+            "iconKey": "storefront",
+            "label": "Levels",
+            "value": "10 Storied"
+          },
+          {
+            "iconKey": "apartment",
+            "label": "Office Size",
+            "value": "1500 sq. ft."
+          },
+          {
+            "iconKey": "unarchive",
+            "label": "Units Per Level",
+            "value": "03"
+          },
+          {
+            "iconKey": "business",
+            "label": "Units",
+            "value": "30"
+          },
+          {
+            "iconKey": "local_parking",
+            "label": "Parkings",
+            "value": "40"
+          },
+          {
+            "iconKey": "elevator",
+            "label": "Elevator",
+            "value": "02"
+          },
+          {
+            "iconKey": "stairs",
+            "label": "Staircase",
+            "value": "01"
+          },
+          {
+            "iconKey": "bed",
+            "label": "Meeting Rooms",
+            "value": "05"
+          },
+          {
+            "iconKey": "calendar_today",
+            "label": "Handover",
+            "value": "2024"
+          },
+          {
+            "iconKey": "group",
+            "label": "Design Consultant",
+            "value": "Commercial Architects"
+          }
+        ],
+        "features": [
+          "Private Rooftop Pool",
+          "Smart Home Automation System",
+          "Game Room with Arcade Machines",
+          "On-Site Dining Options",
+          "Walking Trails with Scenic Views"
+        ],
+        "amenities": [
+          "24/7 Concierge Service",
+          "Private Beach Access",
+          "Golf Simulator",
+          "Tennis Court",
+          "Heated Outdoor Pool"
+        ],
+        "images": [
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576ruzYi.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576q7iSq.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766ktYR.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576yC44u.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576kdmlw.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576iWKUb.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576GfCbE.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576GfCbE.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/173926657634GuV.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576sxV2T.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766Nfmo.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266583PfbN2.jpg"
+        ],
+        "locationCoordinates": {
+          "lat": 23.7467,
+          "lng": 90.3794
+        },
+        "relatedProjects": [
+          {
+            "title": "Luxury Apartment Complex",
+            "description": "A modern, luxurious apartment with premium amenities and exquisite design.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-winter-berry/1734603696TJgzS.jpg",
+            "link": "#"
+          },
+          {
+            "title": "Smart Home Technology",
+            "description": "The latest in smart home tech, offering full automation and convenience.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-rebecca-mohiuddin/1715149207xHbO5.jpg",
+            "link": "#"
+          },
+          {
+            "title": "Office Tower Development",
+            "description": "State-of-the-art office tower for business professionals and companies.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-cool-breeze/1742797849FTqlK.jpg",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Well assets Blossom",
+        "slug": "well-asset-blossom",
+        "status": "Ongoing",
+        "location": "Gandaria",
+        "city": "Dhaka",
+        "type": "Land",
+        "size": "2500+",
+        "image": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-rebecca-mohiuddin/1715149207xHbO5.jpg",
+        "detailItems": [
+          {
+            "iconKey": "location_on",
+            "label": "Address",
+            "value": "Plot 40, Gandaria, Dhaka"
+          },
+          {
+            "iconKey": "home",
+            "label": "Type",
+            "value": "Land"
+          },
+          {
+            "iconKey": "landscape",
+            "label": "Land Area",
+            "value": "30 Katha"
+          },
+          {
+            "iconKey": "storefront",
+            "label": "Levels",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "apartment",
+            "label": "Apartment Size",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "unarchive",
+            "label": "Units Per Level",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "business",
+            "label": "Units",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "local_parking",
+            "label": "Parkings",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "elevator",
+            "label": "Elevator",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "stairs",
+            "label": "Staircase",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "bed",
+            "label": "Bedroom",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "calendar_today",
+            "label": "Handover",
+            "value": "2024"
+          },
+          {
+            "iconKey": "group",
+            "label": "Design Consultant",
+            "value": "City Planners"
+          }
+        ],
+        "features": [
+          "Sky Lounge with Panoramic Views",
+          "Open-Air Jogging Track",
+          "Private Garden for Every Unit",
+          "Soundproof Walls",
+          "Infinity Edge Pool",
+          "24-Hour Fitness Center"
+        ],
+        "amenities": [
+          "High-Speed Wi-Fi throughout the Building",
+          "24/7 Security with Surveillance",
+          "On-Site Maintenance Services",
+          "Barbecue Stations",
+          "Children’s Play Area",
+          "Waterfall and Pond Features"
+        ],
+        "images": [
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576ruzYi.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576q7iSq.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766ktYR.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576yC44u.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576kdmlw.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576iWKUb.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576GfCbE.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576GfCbE.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/173926657634GuV.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576sxV2T.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766Nfmo.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266583PfbN2.jpg"
+        ],
+        "locationCoordinates": {
+          "lat": 23.7467,
+          "lng": 90.3794
+        },
+        "relatedProjects": [
+          {
+            "title": "Luxury Apartment Complex",
+            "description": "A modern, luxurious apartment with premium amenities and exquisite design.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-winter-berry/1734603696TJgzS.jpg",
+            "link": "#"
+          },
+          {
+            "title": "Smart Home Technology",
+            "description": "The latest in smart home tech, offering full automation and convenience.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-rebecca-mohiuddin/1715149207xHbO5.jpg",
+            "link": "#"
+          },
+          {
+            "title": "Office Tower Development",
+            "description": "State-of-the-art office tower for business professionals and companies.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-cool-breeze/1742797849FTqlK.jpg",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Well assets Serenity",
+        "slug": "well-asset-serenity",
+        "status": "Upcoming",
+        "location": "Kalabagan",
+        "city": "Dhaka",
+        "type": "Condominium",
+        "size": "2000-2500",
+        "image": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-nargis-mansion/1744800314FYnTr.jpg",
+        "detailItems": [
+          {
+            "iconKey": "location_on",
+            "label": "Address",
+            "value": "Plot 40, Gandaria, Dhaka"
+          },
+          {
+            "iconKey": "home",
+            "label": "Type",
+            "value": "Land"
+          },
+          {
+            "iconKey": "landscape",
+            "label": "Land Area",
+            "value": "30 Katha"
+          },
+          {
+            "iconKey": "storefront",
+            "label": "Levels",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "apartment",
+            "label": "Apartment Size",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "unarchive",
+            "label": "Units Per Level",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "business",
+            "label": "Units",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "local_parking",
+            "label": "Parkings",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "elevator",
+            "label": "Elevator",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "stairs",
+            "label": "Staircase",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "bed",
+            "label": "Bedroom",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "calendar_today",
+            "label": "Handover",
+            "value": "2024"
+          },
+          {
+            "iconKey": "group",
+            "label": "Design Consultant",
+            "value": "City Planners"
+          }
+        ],
+        "features": [
+          "Private Roof Gardens for Each Unit",
+          "Luxury Car Wash Station",
+          "Hydrotherapy Pool",
+          "Outdoor Yoga Deck",
+          "Rooftop Bar with Lounge",
+          "Resident-Only Clubhouse"
+        ],
+        "amenities": [
+          "Smart Lighting in Common Areas",
+          "Bicycle Storage & Repair Station",
+          "Fire Pit Lounge Area",
+          "In-Unit Washer & Dryer",
+          "24/7 Valet Dry Cleaning Service",
+          "Pet-Friendly Dog Park"
+        ],
+        "images": [
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576ruzYi.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576q7iSq.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766ktYR.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576yC44u.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576kdmlw.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576iWKUb.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576GfCbE.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576GfCbE.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/173926657634GuV.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576sxV2T.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766Nfmo.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266583PfbN2.jpg"
+        ],
+        "locationCoordinates": {
+          "lat": 23.7467,
+          "lng": 90.3794
+        },
+        "relatedProjects": [
+          {
+            "title": "Luxury Apartment Complex",
+            "description": "A modern, luxurious apartment with premium amenities and exquisite design.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-winter-berry/1734603696TJgzS.jpg",
+            "link": "#"
+          },
+          {
+            "title": "Smart Home Technology",
+            "description": "The latest in smart home tech, offering full automation and convenience.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-rebecca-mohiuddin/1715149207xHbO5.jpg",
+            "link": "#"
+          },
+          {
+            "title": "Office Tower Development",
+            "description": "State-of-the-art office tower for business professionals and companies.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-cool-breeze/1742797849FTqlK.jpg",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Well assets Windflower",
+        "slug": "well-asset-windflower",
+        "status": "Upcoming",
+        "location": "Kalabagan",
+        "city": "Dhaka",
+        "type": "Condominium",
+        "size": "2000-2500",
+        "image": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-eleven/1706522581pQUOW.jpg",
+        "detailItems": [
+          {
+            "iconKey": "location_on",
+            "label": "Address",
+            "value": "Plot 40, Gandaria, Dhaka"
+          },
+          {
+            "iconKey": "home",
+            "label": "Type",
+            "value": "Land"
+          },
+          {
+            "iconKey": "landscape",
+            "label": "Land Area",
+            "value": "30 Katha"
+          },
+          {
+            "iconKey": "storefront",
+            "label": "Levels",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "apartment",
+            "label": "Apartment Size",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "unarchive",
+            "label": "Units Per Level",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "business",
+            "label": "Units",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "local_parking",
+            "label": "Parkings",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "elevator",
+            "label": "Elevator",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "stairs",
+            "label": "Staircase",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "bed",
+            "label": "Bedroom",
+            "value": "N/A"
+          },
+          {
+            "iconKey": "calendar_today",
+            "label": "Handover",
+            "value": "2024"
+          },
+          {
+            "iconKey": "group",
+            "label": "Design Consultant",
+            "value": "City Planners"
+          }
+        ],
+        "features": [
+          "Swimming Pool",
+          "24/7 Security",
+          "Gymnasium",
+          "Children's Play Area",
+          "Jogging Track"
+        ],
+        "amenities": [
+          "High-Speed Elevators",
+          "Parking Garage",
+          "Backup Generator",
+          "Rooftop Garden"
+        ],
+        "images": [
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576ruzYi.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576q7iSq.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766ktYR.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576yC44u.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576kdmlw.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576iWKUb.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576GfCbE.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576GfCbE.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/173926657634GuV.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266576sxV2T.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/17392665766Nfmo.jpg",
+          "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-prottasha/1739266583PfbN2.jpg"
+        ],
+        "locationCoordinates": {
+          "lat": 23.7467,
+          "lng": 90.3794
+        },
+        "relatedProjects": [
+          {
+            "title": "Luxury Apartment Complex",
+            "description": "A modern, luxurious apartment with premium amenities and exquisite design.",
+            "imageUrl": "https://sheltech-bd.com/cms/admin/uploads/product/sheltech-cool-breeze/1742797849FTqlK.jpg",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "name": "aaa",
+        "slug": "well-asset-eden",
+        "status": "Ongoing",
+        "location": "Dhaka, mohammadpur",
+        "city": "Chattogram",
+        "type": "Apartment",
+        "size": "2500",
+        "image": "sdf",
+        "features": [
+          "Gourmet Kitchen Appliances"
+        ],
+        "amenities": [
+          "Library with Reading Lounges",
+          "Exclusive Pet Wash Station",
+          "Underground Parking Garage"
+        ],
+        "images": [
+          "sdf",
+          "aaa",
+          "bbb"
+        ],
+        "locationCoordinates": {
+          "lat": 23.7467,
+          "lng": 90.3794
+        },
+        "relatedProjects": [
+          {
+            "title": "aaa",
+            "description": "aa",
+            "imageUrl": "aa",
+            "link": "aa"
+          },
+          {
+            "title": "bb",
+            "description": "bbb",
+            "imageUrl": "bbb",
+            "link": "bb"
+          }
+        ],
+        "id": 9
+      },
+      {
+        "name": "bb",
+        "slug": "well-asset-eden",
+        "status": "Ongoing",
+        "location": "Dhaka, mohammadpur",
+        "city": "Dhaka",
+        "type": "Villa",
+        "size": "2500",
+        "image": "sdf",
+        "features": [
+          "Private Study Rooms"
+        ],
+        "amenities": [
+          "Library with Reading Lounges",
+          "Exclusive Pet Wash Station"
+        ],
+        "images": [
+          "sdf",
+          "aa",
+          "sfds"
+        ],
+        "locationCoordinates": {
+          "lat": 23.7467,
+          "lng": 90.3794
+        },
+        "relatedProjects": [
+          {
+            "title": "a",
+            "description": "a",
+            "imageUrl": "a",
+            "link": "a"
+          },
+          {
+            "title": "b",
+            "description": "b",
+            "imageUrl": "b",
+            "link": "b"
+          }
+        ],
+        "id": 10
+      },
+      {
+        "name": "sdfd",
+        "slug": "well-asset-eden",
+        "status": "Completed",
+        "location": "Dhaka, mohammadpur",
+        "city": "Dhaka",
+        "type": "Villa",
+        "size": "2500",
+        "image": "sdf",
+        "features": [
+          "Private Study Rooms"
+        ],
+        "amenities": [
+          "Billiards Room"
+        ],
+        "images": [
+          "sdf",
+          "a",
+          "a"
+        ],
+        "locationCoordinates": {
+          "lat": 23.7467,
+          "lng": 90.3794
+        },
+        "relatedProjects": [
+          {
+            "title": "a",
+            "description": "a",
+            "imageUrl": "a",
+            "link": "a"
+          },
+          {
+            "title": "a",
+            "description": "a",
+            "imageUrl": "a",
+            "link": "a"
+          }
+        ],
+        "id": 11
+      }
+    ]
+  }
+}

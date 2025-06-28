@@ -1,0 +1,163 @@
+{
+  "mediaCenterPage": {
+    "mediaHeader": {
+      "title": "MEDIA CENTER",
+      "subtitle": "A PEEK BEHIND THE SCENES OF Well Asset",
+      "backgroundImage": "https://sheltech-bd.com/cms/admin/uploads/page/media-center/1707387404TvLlQ.jpg"
+    },
+    "allMediaInfo": [
+      {
+        "id": 1,
+        "title": "The Advantages of Choosing a Top-Floor Apartment",
+        "date": "2025-06-15",
+        "category": "Blog",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFA5xohyKpjKIH9eEb4pjrfNW7tOSrsnbTL97u4SjJaGekDOqXuvVHixBpNCy4nevgO-I&usqp=CAU",
+        "url": "real-estate-development-with-sustainable-solution"
+      },
+      {
+        "id": 2,
+        "title": "The Advantages of Choosing a Top-Floor Apartment",
+        "date": "2025-06-16",
+        "category": "Events",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGu6VhnVbaF1KVCQe2Kq1oj_R2Lg_0rYbBQ&s",
+        "url": "urban-green-project-launch"
+      },
+      {
+        "id": 3,
+        "title": "Handover Ceremony of Well Asset Erina",
+        "date": "2025-06-17",
+        "category": "News",
+        "imgSrc": "https://www.shutterstock.com/image-vector/modern-office-building-exterior-commercial-260nw-2291871373.jpg",
+        "url": "energy-efficiency-in-modern-apartments"
+      },
+      {
+        "id": 4,
+        "title": "Best Luxury Apartments in Dhanmondi R/A",
+        "date": "2025-06-18",
+        "category": "Events",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7IHHRgr-uJy0Szk59ZqnbkLrhs9sfEVsHKZIrnZ3XfgRiiI2RoSRYs9NoS7U0xxdx2Ag&usqp=CAU",
+        "url": "smart-city-initiative-2025"
+      },
+      {
+        "id": 5,
+        "title": "Special offer up to 25 lakh taka at Well Asset 37th Anniversary Fair 2025",
+        "date": "2025-06-19",
+        "category": "Blog",
+        "imgSrc": "https://t3.ftcdn.net/jpg/02/55/86/12/360_F_255861239_viu6hRNcURzeKUoyPJBFOyTu1fA8aJtM.jpg",
+        "url": "real-estate-development-with-sustainable-solution"
+      },
+      {
+        "id": 6,
+        "title": "5 Reasons Families Are Choosing Jolshiri Abashon",
+        "date": "2025-06-19",
+        "category": "Blog",
+        "imgSrc": "https://t4.ftcdn.net/jpg/06/07/81/11/360_F_607811156_uJfQpXEn1UtOezYhqAKN3D9jgAMdiBDG.jpg",
+        "url": "smart-city-initiative-2025"
+      },
+      {
+        "id": 7,
+        "title": "Well Asset is now expanding their venture in Chattogram",
+        "date": "2025-06-19",
+        "category": "Blog",
+        "imgSrc": "https://www.shutterstock.com/image-vector/downtown-nature-landscape-modern-stylish-260nw-1529776166.jpg",
+        "url": "urban-green-project-launch"
+      },
+      {
+        "id": 8,
+        "title": "Well Asset Group and Berger Paints Bangladesh Ltd. Strengthen Ties with New Strategic Partnership",
+        "date": "2025-06-19",
+        "category": "Blog",
+        "imgSrc": "https://www.shutterstock.com/image-vector/flat-vector-illustration-urban-landscape-260nw-619320212.jpg",
+        "url": "energy-efficiency-in-modern-apartments"
+      },
+      {
+        "id": 9,
+        "title": "Well Asset Group: Platinum Sponsor at JCI Bangladesh Carnival 2025",
+        "date": "2025-06-19",
+        "category": "Blog",
+        "imgSrc": "https://media.istockphoto.com/id/92712733/vector/manhattan-skyline.jpg?s=612x612&w=0&k=20&c=hBR7s6wuEQbtftLOdWdyM6guzAZXencx-o6CXvfnBxI=",
+        "url": "urban-green-project-launch"
+      },
+      {
+        "id": 10,
+        "title": "Agreement Signing of Well Asset Elegant Tower, Commercial Project at Kalabagan",
+        "date": "2025-06-19",
+        "category": "Blog",
+        "imgSrc": "https://t3.ftcdn.net/jpg/02/85/65/48/360_F_285654801_omBYnUmzhMdaj3rgaIqrHbXVPDxqrMkV.jpg",
+        "url": "energy-efficiency-in-modern-apartments"
+      },
+      {
+        "id": 11,
+        "title": "Ground Breaking Ceremony of Well Asset Lily-An Tower, Commercial Project at Satmasjid Road",
+        "date": "2025-06-19",
+        "category": "Blog",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6XYiQOr61n34i7XVfkfyi3HhE1Kfia942aaRre75-bK0oAbV7dfV_TvJlAfLnmK3oXcA&usqp=CAU",
+        "url": "urban-green-project-launch"
+      },
+      {
+        "id": 12,
+        "title": "Agreement Signing of Well Asset Asharat & Well Asset Meraj, Residential Project at Jolshiri Abashon",
+        "date": "2025-06-19",
+        "category": "Blog",
+        "imgSrc": "https://img.freepik.com/premium-vector/cartoon-illustration-city-with-city-background_1023984-25069.jpg",
+        "url": "energy-efficiency-in-modern-apartments"
+      },
+      {
+        "id": 13,
+        "title": "Blog 2",
+        "date": "2025-06-19",
+        "category": "Blog",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9pDjFvrikIAxqFVLb6w0n0_JAABmajr_DnWXn2A2XKGc14v2flkYznbOoxO5_098fVmU&usqp=CAU",
+        "url": "urban-green-project-launch"
+      },
+      {
+        "id": 14,
+        "title": "Ground Breaking of Well Asset Astha, Residential Project at Jolshiri Abashon",
+        "date": "2025-06-19",
+        "category": "Blog",
+        "imgSrc": "https://media.istockphoto.com/id/1024128094/vector/city-skyscrapers-and-business-buildings-skyline-downtown-cityscape-big-town-real-estate.jpg?s=612x612&w=0&k=20&c=Y1yHUIBV5edpPNqdEKB3yhgqt7I0g-JWyJjggNi_YgM=",
+        "url": "urban-green-project-launch"
+      },
+      {
+        "id": 15,
+        "title": "Ground Breaking of Well Asset Rowshan Garden at Wari",
+        "date": "2025-06-19",
+        "category": "Blog",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSryExDFwA8gEs7HsaxeH_2BM3ihVeA0HRDy2qCQl9YlJoLP0q_N8glcE_3VYSlDE6saDk&usqp=CAU",
+        "url": "energy-efficiency-in-modern-apartments"
+      },
+      {
+        "id": 16,
+        "title": "Handover Ceremony of Well Asset Nurjahan",
+        "date": "2025-06-19",
+        "category": "Blog",
+        "imgSrc": "https://media.istockphoto.com/id/628884938/vector/city-downtown-landscape-with-skyscrapers.jpg?s=612x612&w=0&k=20&c=RsggDSkxNjsEa8r8no_c_nZxcYVk4jGufbd9yM6A2lo=",
+        "url": "urban-green-project-launch"
+      },
+      {
+        "id": 17,
+        "title": "Ground Breaking of Well Asset Nargis Mansion at Eskaton",
+        "date": "2025-06-19",
+        "category": "Blog",
+        "imgSrc": "https://img.freepik.com/free-vector/city-building-view-daytime_1308-105320.jpg",
+        "url": "energy-efficiency-in-modern-apartments"
+      },
+      {
+        "id": 18,
+        "title": "Ground Breaking of Well Asset Nargis Mansion at Eskaton",
+        "date": "2025-06-19",
+        "category": "Blog",
+        "imgSrc": "https://c8.alamy.com/comp/RWF3YD/urban-buildings-cartoon-RWF3YD.jpg",
+        "url": "energy-efficiency-in-modern-apartments"
+      },
+      {
+        "id": 19,
+        "title": "Well Asset Announces Grand Opening of Well Asset River View Project",
+        "date": "2025-06-19",
+        "category": "Events",
+        "imgSrc": "https://c8.alamy.com/comp/HPB1FK/city-skyscraper-buildings-background-scene-in-a-cartoon-pop-art-comic-HPB1FK.jpg",
+        "url": "urban-green-project-launch"
+      }
+    ]
+  }
+}

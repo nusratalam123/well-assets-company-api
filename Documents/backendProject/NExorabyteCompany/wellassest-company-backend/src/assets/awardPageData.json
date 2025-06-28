@@ -1,0 +1,34 @@
+{
+  "awardPage": {
+    "awardInfo": {
+      "title": "AWARDS & ACCOLADES",
+      "backgroundImage": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1707390568PpFJs.jpg"
+    },
+    "awardImages": [
+      {
+        "id": 1,
+        "src": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1707888906j6o5t.jpg",
+        "name": "Platinum Hotels Won Two Awards at South Asian Travel Awards (SATA) 2024",
+        "description": "Platinum Hotels received two awards in the SATA 2024 for outstanding hospitality service and design excellence..."
+      },
+      {
+        "id": 2,
+        "src": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1707888931zx4Oa.jpg",
+        "name": "ESSAB Safety Excellence Award 2020",
+        "description": "Recognized for safety excellence in the residential category by ESSAB for the year 2020, Well Asset maintained industry-leading fire safety systems."
+      },
+      {
+        "id": 3,
+        "src": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1707373262tcLw8.jpg",
+        "name": "National Productivity and Quality Excellence Award 2020",
+        "description": "This award recognizes Well Asset's consistent performance and contribution in productivity, quality assurance, and efficient engineering."
+      },
+      {
+        "id": 4,
+        "src": "https://sheltech-bd.com/cms/admin/uploads/page/about-us/1707888976NuXGQ.jpg",
+        "name": "ESSAB Safety Excellence Award 2022",
+        "description": "Well Asset won the 1st Runner Up in the 2024 ‘Residential Building’ category for implementing fire safety in Well Asset Rubury project..."
+      }
+    ]
+  }
+}

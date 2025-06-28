@@ -1,0 +1,1023 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type UserType {
+  id: ID!
+  name: String!
+  email: String!
+  phoneNumber: String!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+  accountStatus: AccountStatus!
+  role: Role!
+}
+
+"""
+A date-time string at UTC, such as 2019-12-03T09:54:33Z, compliant with the date-time format.
+"""
+scalar DateTime
+
+enum AccountStatus {
+  PENDING
+  ACTIVE
+  SUSPENDED
+}
+
+enum Role {
+  ADMIN
+  USER
+}
+
+type LoginResponseType {
+  token: String!
+  user: UserType!
+}
+
+type ContactType {
+  id: ID!
+  name: String!
+  email: String!
+  phone: String!
+  message: String!
+  reasonForContacting: String!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+}
+
+type TitleImage {
+  alt: String!
+  title: String!
+  url: String!
+}
+
+type KeepInTouch {
+  heading: String!
+  address1: String!
+  address2: String!
+  email: String!
+  salesEnquiry: String!
+  jointVentureDevelopment: String!
+  generalEnquiry: String!
+  internationalCaller: String!
+  whatsapp: String!
+  mapLocation: String!
+}
+
+type ContactJsonType {
+  titleImage: TitleImage!
+  keepInTouch: KeepInTouch!
+}
+
+type CustomerInquiryType {
+  id: ID!
+  name: String!
+  address: String!
+  email: String!
+  phone: String!
+  category: Category!
+  location: String!
+  size: Float!
+  message: String!
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+"""The type of property (Residential or Commercial)"""
+enum Category {
+  RESIDENTIAL
+  COMMERCIAL
+}
+
+type CustomerInqueryJsonType {
+  heroTitle: String!
+  background: String!
+}
+
+type JobListingType {
+  id: ID!
+  title: String!
+  location: String!
+  status: String!
+  jobResponsibilities: [String!]!
+  educationalRequirements: [String!]!
+  experienceRequirements: [String!]!
+  additionalRequirements: [String!]!
+  jobPreferences: [String!]!
+  benefits: [String!]!
+  applyBefore: String!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+}
+
+type ResumeType {
+  id: ID!
+  name: String!
+  phone: String!
+  email: String!
+  address: String!
+  position: String!
+  coverLetter: String
+  resumeFile: String
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+type DepartmentType {
+  id: Int!
+  title: String!
+  logo: String!
+}
+
+type CareerHeaderType {
+  title: String!
+  subtitle: String!
+  logo: String!
+}
+
+type CareerSecondType {
+  title: String!
+  logo: String!
+  para1: String!
+  para2: String!
+}
+
+type CareerPageType {
+  careerHeader: CareerHeaderType!
+  careerSecond: CareerSecondType!
+  departments: [DepartmentType!]!
+}
+
+type LandownerHeaderType {
+  title: String!
+  subtitle: String!
+  backgroundImage: String!
+}
+
+type EssenceItemType {
+  id: Int!
+  title: String!
+  icon: String!
+  description: String!
+  src: String!
+}
+
+type JointVentureType {
+  id: String!
+  locality: String!
+  address: String!
+  landSize: String
+  frontRoadWidth: String
+  landCategory: LandCategory
+  facing: Facing
+  benefits: String
+  landownerName: String!
+  contactPerson: String
+  email: String
+  phone: String!
+  message: String
+}
+
+enum LandCategory {
+  FREEHOLD
+  LEASEHOLD
+}
+
+enum Facing {
+  NORTH
+  SOUTH
+  EAST
+  WEST
+}
+
+type TestimonialType {
+  id: String!
+  title: String!
+  quote: String!
+  authorName: String!
+  authorPosition: String!
+  videoUrl: String!
+  thumbnailUrl: String!
+}
+
+type MediaHeaderType {
+  title: String!
+  subtitle: String!
+  backgroundImage: String!
+}
+
+type MediaInfoType {
+  id: Int!
+  title: String!
+  date: String!
+  category: String!
+  imgSrc: String!
+  url: String!
+}
+
+type BlogSectionType {
+  image: String!
+  texts: [String!]
+}
+
+type BlogType {
+  id: ID!
+  title: String!
+  slug: String!
+  category: String!
+  date: String!
+  thumbnail: String!
+  shortDescription: String!
+  sections: [BlogSectionType!]!
+}
+
+type EventType {
+  id: ID!
+  title: String!
+  category: String!
+  slug: String
+  date: String!
+  thumbnail: String!
+  description: [String!]!
+}
+
+type NewsType {
+  id: ID!
+  title: String!
+  slug: String
+  category: String!
+  date: String!
+  thumbnail: String!
+  description: [String!]!
+  gallery: [String!]
+}
+
+type MediaUnifiedType {
+  blogs: [BlogType!]!
+  events: [EventType!]!
+  news: [NewsType!]!
+}
+
+type MediaCenterDynamicType {
+  slug: String!
+  title: String!
+  date: String!
+  subtitle: String!
+  imageUrls: [String!]!
+  content: [String!]!
+}
+
+type AboutHeroType {
+  title: String!
+  backgroundImage: String!
+}
+
+type LegacySectionType {
+  title: String!
+  paragraphs: [String!]!
+  image: String!
+}
+
+type MilestoneItemType {
+  id: Int
+  value: String!
+  label: String!
+}
+
+type MilestoneSectionType {
+  title: String
+  items: [MilestoneItemType!]!
+}
+
+type MissionSectionType {
+  title: String!
+  description: String!
+  image: String!
+}
+
+type VisionSectionType {
+  title: String!
+  description: String!
+  image: String!
+}
+
+type CSRImageType {
+  id: Int!
+  src: String!
+  name: String!
+  url: String!
+}
+
+type ExcellenceItemType {
+  id: Int!
+  title: String!
+  description: String!
+  icon: String!
+}
+
+type CompanyType {
+  id: Int
+  name: String!
+  logo: String!
+  description: String!
+  phone: String!
+  website: String!
+}
+
+type LeaderHeroType {
+  title: String!
+  backgroundImage: String!
+}
+
+type FounderType {
+  name: String!
+  title: String!
+  description: [String!]!
+  imageUrl: String!
+}
+
+type TeamMemberType {
+  id: Int
+  name: String!
+  title: String!
+  imageUrl: String!
+}
+
+type RecognitionType {
+  id: Int!
+  src: String!
+  name: String!
+  description: String!
+}
+
+type LeaderPageType {
+  leaderHero: LeaderHeroType!
+  founderSection: FounderType!
+  leaderOfTeam: [TeamMemberType!]!
+  managementTeam: [TeamMemberType!]!
+  recognitions: [RecognitionType!]!
+}
+
+type AwardInfoType {
+  title: String!
+  backgroundImage: String!
+}
+
+type AwardImageType {
+  id: Int!
+  src: String!
+  name: String!
+  description: String!
+}
+
+type DetailItemType {
+  iconKey: String!
+  label: String!
+  value: String!
+}
+
+type RelatedProjectType {
+  title: String!
+  description: String!
+  imageUrl: String!
+  link: String!
+}
+
+type CoordinatesType {
+  lat: Float!
+  lng: Float!
+}
+
+type ProjectHeroType {
+  title: String!
+  subtitle: String!
+  backgroundImage: String!
+}
+
+type ProjectType {
+  id: Int
+  name: String!
+  slug: String!
+  status: String!
+  location: String!
+  city: String!
+  type: String!
+  size: String!
+  image: String!
+  projectHero: ProjectHeroType
+  detailItems: [DetailItemType!]!
+  features: [String!]!
+  amenities: [String!]!
+  images: [String!]!
+  locationCoordinates: CoordinatesType!
+  relatedProjects: [RelatedProjectType!]!
+}
+
+type ConnectType {
+  id: String!
+  name: String!
+  phone: String!
+  email: String!
+  message: String
+  createdAt: DateTime!
+}
+
+type HomeHeroType {
+  title: String!
+  backgroundImage: String!
+  videoThumbnail: String!
+  videoUrl: String!
+}
+
+type HomeSliderType {
+  id: Int!
+  title: String!
+  subtitle: String!
+  image: String!
+}
+
+type HomeExcellenceType {
+  id: Int!
+  title: String!
+  description: String!
+  icon: String!
+}
+
+type SocialLinkDto {
+  facebook: String!
+  instagram: String!
+  youtube: String!
+  linkedin: String!
+}
+
+type FooterDto {
+  phoneNumber: String!
+  socialLinks: SocialLinkDto!
+  address: String!
+  links: [LinkDto!]!
+  footerText: String
+  footerSubText: String
+  footerImage: String
+  logo: String
+}
+
+type LinkDto {
+  label: String
+  url: String
+}
+
+type Query {
+  hello: String!
+  findUserByEmail(email: String!): UserType
+  getAllUsers: [UserType!]!
+  getSingleUserById(id: String!): UserType!
+  getAllContacts: [ContactType!]!
+  getContactPageData: ContactJsonType!
+  getCustomerTitle: CustomerInqueryJsonType!
+  getAllCustomerInquiries: [CustomerInquiryType!]!
+  getCustomerInquiryById(id: String!): CustomerInquiryType!
+  getAllJobListing: [JobListingType!]!
+  getSingleJobListing(id: String!): JobListingType!
+  getResumes: [ResumeType!]!
+  getSingleResume(id: String!): ResumeType!
+  getCareerPage: CareerPageType!
+  getDepartments: [DepartmentType!]!
+  getCareerHeader: CareerHeaderType!
+  getCareerSecond: CareerSecondType!
+  getLandownerHeader: LandownerHeaderType!
+  getEssenceItems: [EssenceItemType!]!
+  getAllJointVentures: [JointVentureType!]!
+  getSingleJointVenture(id: String!): JointVentureType!
+  getAllTestimonials: [TestimonialType!]!
+  getTestimonial(id: String!): TestimonialType!
+  getAllMedia: MediaUnifiedType!
+  getMediaHeader: MediaHeaderType!
+  getAllMediaCenterData: [MediaInfoType!]!
+  getAllMediaCenterDynamicJson: [MediaCenterDynamicType!]!
+  getAboutPage: String!
+  getAboutHero: AboutHeroType!
+  getLegacySection: LegacySectionType!
+  getMilestoneSection: MilestoneSectionType!
+  getMissionSection: MissionSectionType!
+  getVisionSection: VisionSectionType!
+  getCsrImages: [CSRImageType!]!
+  getExcellenceItems: [ExcellenceItemType!]!
+  getCompanies: [CompanyType!]!
+  getLeaderPage: LeaderPageType!
+  getLeaderHero: LeaderHeroType!
+  getFounderInfo: FounderType!
+  getLeaderTeam: [TeamMemberType!]!
+  getManagementTeam: [TeamMemberType!]!
+  getRecognitions: [RecognitionType!]!
+  getAwardInfo: AwardInfoType!
+  getAwardImages: [AwardImageType!]!
+  getConnects: [ConnectType!]!
+  getSingleConnect(id: String!): ConnectType!
+  getProjectPage: ProjectType!
+  getAllProjects: [ProjectType!]!
+  filterProjects(filter: ProjectFilterInput): [ProjectType!]!
+  getProjectById(id: Float!): ProjectType
+  getHomeHero: HomeHeroType!
+  getHomeSlider: [HomeSliderType!]!
+  getHomeExcellence: [HomeExcellenceType]!
+  footer: FooterDto!
+}
+
+input ProjectFilterInput {
+  location: String
+  status: String
+  type: String
+  size: String
+}
+
+type Mutation {
+  deleteUser(id: String!): UserType!
+  updateUser(id: String!, updateUserDto: UpdateUserDto!): UserType!
+  signUp(signUpDto: SignupDto!): UserType!
+  login(email: String!, password: String!): LoginResponseType!
+  createContact(createContactInput: CreateContactInput!): ContactType!
+  updateTitleImage(newTitleImage: UpdateTitleImageInput!): ContactJsonType!
+  updateKeepInTouch(newKeepInTouch: UpdateKeepInTouchInput!): ContactJsonType!
+  createCustomerInquiry(createCustomerInquiryDto: CreateCustomerInquiryDto!): CustomerInquiryType!
+  updateCustomerInquiry(id: String!, updateCustomerInquiryDto: UpdateCustomerInquiryDto!): CustomerInquiryType!
+  deleteCustomerInquiry(id: String!): String!
+  updateCustomerBanner(heroTitle: String!, background: String!): CustomerInqueryJsonType!
+  createJobListing(createJobListingInput: CreateJobListingInput!): JobListingType!
+  updateJobListing(id: String!, updateJobListingInput: UpdateJobListingInput!): JobListingType!
+  deleteJobListing(id: String!): String!
+  submitResume(createResumeInput: CreateResumeInput!): ResumeType!
+  updateResume(id: String!, updateResumeInput: UpdateResumeInput!): ResumeType!
+  deleteResume(id: String!): String!
+  createDepartment(input: DepartmentInput!): DepartmentType!
+  updateDepartment(input: UpdateDepartmentInput!): DepartmentType!
+  deleteDepartment(id: Int!): Boolean!
+  updateCareerHeader(input: CareerHeaderInput!): CareerHeaderType!
+  updateCareerSecond(input: CareerSecondInput!): CareerSecondType!
+  updateLandownerHeader(input: LandownerHeaderInput!): LandownerHeaderType!
+  createEssenceItem(input: CreateEssenceItemInput!): EssenceItemType!
+  updateEssenceItem(input: UpdateEssenceItemInput!): EssenceItemType!
+  deleteEssenceItem(id: Int!): Boolean!
+  submitJointVenture(input: CreateJointVentureInput!): JointVentureType!
+  deleteJointVenture(id: String!): Boolean!
+  createTestimonial(input: CreateTestimonialInput!): TestimonialType!
+  deleteTestimonial(id: String!): Boolean!
+  updateTestimonial(id: String!, input: UpdateTestimonialInput!): TestimonialType!
+  updateMediaHeader(input: UpdateMediaHeaderInput!): MediaHeaderType!
+  deleteMediaCenter(id: Float!): Boolean!
+  updateMediaInfo(id: Int!, input: UpdateMediaInfoInput!): MediaInfoType!
+  createMediaInfo(input: CreateMediaInfoInput!): MediaInfoType!
+  addMilestoneItem(input: MilestoneItemInput!): MilestoneItemType!
+  updateMilestoneItem(id: Int!, input: MilestoneItemInput!): MilestoneItemType!
+  deleteMilestoneItem(id: Int!): Boolean!
+  updateAboutHero(input: AboutHeroInput!): AboutHeroType!
+  updateLegacySection(input: LegacySectionInput!): LegacySectionType!
+  updateMissionSection(input: MissionSectionInput!): MissionSectionType!
+  updateVisionSection(input: VisionSectionInput!): VisionSectionType!
+  updateCsrImages(input: [CSRImageInput!]!): [CSRImageType!]!
+  updateExcellenceItems(id: Int!, input: ExcellenceItemInput!): ExcellenceItemType!
+  addExcellenceItem(input: ExcellenceItemInput!): ExcellenceItemType!
+  deleteExcellenceItem(id: Int!): Boolean!
+  addCompany(input: CompanyInput!): CompanyType!
+  updateCompany(id: Int!, input: CompanyInput!): CompanyType
+  deleteCompany(id: Int!): Boolean!
+  updateLeaderHero(input: LeaderHeroInput!): LeaderHeroType!
+  updateFounderSection(input: FounderInput!): FounderType!
+  updateLeaderOfTeam(id: Int!, input: TeamMemberInput!): TeamMemberType
+  addLeaderToTeam(input: TeamMemberInput!): TeamMemberType!
+  deleteLeaderFromTeam(id: Int!): Boolean!
+  updateManagementTeam(id: Int!, input: TeamMemberInput!): TeamMemberType!
+  addManagementTeam(input: TeamMemberInput!): TeamMemberType!
+  deleteManagementTeam(id: Int!): Boolean!
+  addRecognition(input: RecognitionInput!): RecognitionType!
+  updateRecognition(id: Int!, input: RecognitionInput!): RecognitionType!
+  deleteRecognition(id: Int!): Boolean!
+  updateAwardInfo(input: AwardInfoInput!): AwardInfoType!
+  updateAwardImages(input: [AwardImageInput!]!): [AwardImageType!]!
+  addAwardImage(input: AwardImageInput!): AwardImageType!
+  deleteAwardImage(id: Int!): [AwardImageType!]!
+  updateAwardImage(id: Int!, input: AwardImageInput!): AwardImageType!
+  submitConnect(input: CreateConnectInput!): ConnectType!
+  updateConnect(input: UpdateConnectInput!): ConnectType!
+  deleteConnect(id: String!): Boolean!
+  deleteProject(id: Float!): Boolean!
+  editProject(id: Float!, input: UpdateProjectInput!): Boolean!
+  createProject(input: AddProjectInput!): ProjectType!
+  updateHomeHero(input: UpdateHomeHeroInput!): HomeHeroType!
+  addHomeSlider(input: UpdateSliderInput!): HomeSliderType!
+  updateHomeSliderById(input: UpdateSliderInput!): HomeSliderType!
+  deleteHomeSlider(id: Float!): Boolean!
+  addHomeExcellence(input: CreateHomeExcellenceInput!): HomeExcellenceType!
+  updateHomeExcellence(input: UpdateHomeExcellenceInput!): HomeExcellenceType!
+  deleteHomeExcellence(id: Int!): Boolean!
+  updateFooter(input: UpdateFooterInput!): FooterDto!
+}
+
+input UpdateUserDto {
+  name: String
+  email: String
+  phoneNumber: String
+  role: String
+}
+
+input SignupDto {
+  name: String!
+  email: String!
+  phoneNumber: String!
+  password: String!
+  confirmPassword: String!
+  role: String!
+}
+
+input CreateContactInput {
+  name: String
+  email: String
+  phone: String
+  message: String
+  reasonForContacting: String
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input UpdateTitleImageInput {
+  alt: String!
+  title: String!
+  url: String!
+}
+
+input UpdateKeepInTouchInput {
+  heading: String!
+  address1: String!
+  address2: String!
+  email: String!
+  salesEnquiry: String!
+  jointVentureDevelopment: String!
+  generalEnquiry: String!
+  internationalCaller: String!
+  whatsapp: String!
+  mapLocation: String!
+}
+
+input CreateCustomerInquiryDto {
+  name: String!
+  address: String!
+  email: String!
+  phone: String!
+  category: Category!
+  location: String!
+  size: Float!
+  message: String!
+  createdAt: DateTime
+  updatedAt: DateTime
+}
+
+input UpdateCustomerInquiryDto {
+  name: String
+  address: String
+  email: String
+  phone: String
+  category: Category
+  location: String
+  size: Float
+  message: String
+}
+
+input CreateJobListingInput {
+  title: String!
+  location: String!
+  status: String!
+  jobResponsibilities: [String!]!
+  educationalRequirements: [String!]!
+  experienceRequirements: [String!]!
+  additionalRequirements: [String!]!
+  jobPreferences: [String!]!
+  benefits: [String!]!
+  applyBefore: String!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+}
+
+input UpdateJobListingInput {
+  title: String
+  location: String
+  status: String
+  jobResponsibilities: [String!]
+  educationalRequirements: [String!]
+  experienceRequirements: [String!]
+  additionalRequirements: [String!]
+  jobPreferences: [String!]
+  benefits: [String!]
+  applyBefore: String
+}
+
+input CreateResumeInput {
+  name: String!
+  phone: String!
+  email: String!
+  address: String!
+  position: String!
+  coverLetter: String
+  resumeFile: String
+}
+
+input UpdateResumeInput {
+  name: String
+  phone: String
+  email: String
+  address: String
+  position: String
+  coverLetter: String
+  resumeFile: String
+}
+
+input DepartmentInput {
+  title: String!
+  logo: String!
+}
+
+input UpdateDepartmentInput {
+  id: Int!
+  title: String!
+  logo: String!
+}
+
+input CareerHeaderInput {
+  title: String!
+  subtitle: String!
+  logo: String!
+}
+
+input CareerSecondInput {
+  title: String!
+  logo: String!
+  para1: String!
+  para2: String!
+}
+
+input LandownerHeaderInput {
+  title: String!
+  subtitle: String!
+  backgroundImage: String!
+}
+
+input CreateEssenceItemInput {
+  title: String!
+  icon: String!
+  description: String!
+}
+
+input UpdateEssenceItemInput {
+  id: Int!
+  title: String!
+  icon: String!
+  description: String!
+}
+
+input CreateJointVentureInput {
+  locality: String!
+  address: String!
+  landSize: String
+  frontRoadWidth: String
+  landCategory: LandCategory
+  facing: Facing
+  benefits: String
+  landownerName: String!
+  contactPerson: String
+  email: String
+  phone: String!
+  message: String
+}
+
+input CreateTestimonialInput {
+  title: String!
+  quote: String!
+  authorName: String!
+  authorPosition: String!
+  videoUrl: String!
+  thumbnailUrl: String!
+}
+
+input UpdateTestimonialInput {
+  title: String
+  quote: String
+  authorName: String
+  authorPosition: String
+  videoUrl: String
+  thumbnailUrl: String
+}
+
+input UpdateMediaHeaderInput {
+  title: String!
+  subtitle: String!
+  backgroundImage: String!
+}
+
+input UpdateMediaInfoInput {
+  title: String
+  date: String
+  category: String
+  imgSrc: String
+  url: String
+}
+
+input CreateMediaInfoInput {
+  title: String!
+  date: String!
+  category: String!
+  imgSrc: String!
+  url: String!
+}
+
+input MilestoneItemInput {
+  id: Int
+  value: String!
+  label: String!
+}
+
+input AboutHeroInput {
+  title: String!
+  backgroundImage: String!
+}
+
+input LegacySectionInput {
+  title: String!
+  paragraphs: [String!]!
+  image: String!
+}
+
+input MissionSectionInput {
+  title: String!
+  description: String!
+  image: String!
+}
+
+input VisionSectionInput {
+  title: String!
+  description: String!
+  image: String!
+}
+
+input CSRImageInput {
+  id: Float!
+  src: String!
+  name: String!
+  url: String!
+}
+
+input ExcellenceItemInput {
+  id: Int
+  title: String!
+  description: String!
+  icon: String!
+}
+
+input CompanyInput {
+  id: Int
+  name: String!
+  logo: String!
+  description: String!
+  phone: String!
+  website: String!
+}
+
+input LeaderHeroInput {
+  title: String!
+  backgroundImage: String!
+}
+
+input FounderInput {
+  name: String!
+  title: String!
+  description: [String!]!
+  imageUrl: String!
+}
+
+input TeamMemberInput {
+  id: Int
+  name: String
+  title: String
+  imageUrl: String
+}
+
+input RecognitionInput {
+  id: Int
+  src: String!
+  name: String!
+  description: String!
+}
+
+input AwardInfoInput {
+  title: String!
+  backgroundImage: String!
+}
+
+input AwardImageInput {
+  id: Int
+  src: String!
+  name: String!
+  description: String!
+}
+
+input CreateConnectInput {
+  name: String!
+  phone: String!
+  email: String!
+  message: String
+}
+
+input UpdateConnectInput {
+  name: String
+  phone: String
+  email: String
+  message: String
+  id: ID!
+}
+
+input UpdateProjectInput {
+  name: String
+  slug: String
+  status: String
+  location: String
+  city: String
+  type: String
+  size: String
+  image: String
+}
+
+input AddProjectInput {
+  name: String!
+  slug: String!
+  status: String!
+  location: String!
+  city: String!
+  type: String!
+  size: String!
+  image: String!
+  features: [String!]!
+  amenities: [String!]!
+  images: [String!]!
+  locationCoordinates: CoordinatesInput!
+  relatedProjects: [RelatedProjectInput!]!
+}
+
+input CoordinatesInput {
+  lat: Float!
+  lng: Float!
+}
+
+input RelatedProjectInput {
+  title: String!
+  description: String!
+  imageUrl: String!
+  link: String!
+}
+
+input UpdateHomeHeroInput {
+  title: String
+  backgroundImage: String
+  videoThumbnail: String
+  videoUrl: String
+}
+
+input UpdateSliderInput {
+  id: Float
+  title: String
+  subtitle: String
+  image: String
+}
+
+input CreateHomeExcellenceInput {
+  id: Float
+  title: String!
+  description: String!
+  icon: String!
+}
+
+input UpdateHomeExcellenceInput {
+  id: Float
+  title: String
+  description: String
+  icon: String
+}
+
+input UpdateFooterInput {
+  phoneNumber: String
+  socialLinks: SocialLinkInput
+  address: String
+  links: [LinkInput!]
+  footerText: String
+  footerSubText: String
+  footerImage: String
+  logo: String
+}
+
+input SocialLinkInput {
+  facebook: String
+  instagram: String
+  youtube: String
+  linkedin: String
+}
+
+input LinkInput {
+  label: String
+  url: String
+}

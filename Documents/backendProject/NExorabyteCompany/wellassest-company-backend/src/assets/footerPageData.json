@@ -1,0 +1,54 @@
+{
+  "footer": {
+    "phoneNumber": "16555",
+    "socialLinks": {
+      "facebook": "https://www.newfacebooklink.com",
+      "instagram": "https://www.instagram.com",
+      "youtube": "https://www.youtube.com",
+      "linkedin": "https://www.linkedin.com"
+    },
+    "address": "Well Asset Tower, 60 Sheikh Russel Square, West Panthapath, Dhaka-1205, Bangladesh",
+    "links": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "About Us",
+        "url": "/about"
+      },
+      {
+        "label": "Projects",
+        "url": "/projects"
+      },
+      {
+        "label": "Landowner",
+        "url": "/land-owner"
+      },
+      {
+        "label": "Media Center",
+        "url": "/media-center"
+      },
+      {
+        "label": "Career",
+        "url": "/career"
+      },
+      {
+        "label": "Customer Enquiry",
+        "url": "/customer-enquiries"
+      },
+      {
+        "label": "Privacy Policy",
+        "url": "/privacy-policy"
+      },
+      {
+        "label": "Contact",
+        "url": "/contact"
+      }
+    ],
+    "footerText": "© {year} Well Asset (Pvt.) Ltd. All Rights Reserved",
+    "footerSubText": "Designed & Developed by Well Asset (Pvt) Ltd.",
+    "footerImage": "https://sheltech-bd.com/images/static/footer.png",
+    "logo": "https://sheltech-bd.com/images/static/logo.png"
+  }
+}
